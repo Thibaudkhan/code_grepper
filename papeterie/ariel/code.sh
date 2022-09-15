@@ -1,0 +1,1 @@
+curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET https://ariel.pfregistres.com/apiUnlocked/all/{siren}
